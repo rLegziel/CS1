@@ -1,6 +1,7 @@
 import java.util.Scanner;
-
 import static java.lang.Math.*;
+
+//finds the maximum and minimum number from input of 5 numbers
 
 public class MaxAndMin {
 
