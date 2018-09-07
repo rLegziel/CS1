@@ -1,3 +1,5 @@
+// addition of two numbers and outputs their result in negative
+
 public class Addition
 {
     public static void main ( String[] args )
