@@ -1,6 +1,8 @@
 import java.util.Scanner;
 import static java.lang.Math.*;
 
+//checks if a number is even or odd, and will lie 10% of the time using a random function that has a range of 1-10.
+
 public class EvenOrOddLie {
 
     public static void main(String[] args) {
