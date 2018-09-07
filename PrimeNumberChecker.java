@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
-public class EvenOrOdd {
+// check if a number is a prime 
+
+public class PrimeNumberChecker {
 
     public static void main(String[] args) {
     	Scanner in = new Scanner(System.in);
