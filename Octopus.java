@@ -1,3 +1,5 @@
+//prints out an ASCII octopus
+
 public class Octopus
 {
     public static void main ( String[] args )
