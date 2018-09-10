@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 // check if a number is a prime 
 
-public class PrimeNumberChecker {
+public class EvenOrOdd {
 
     public static void main(String[] args) {
     	Scanner in = new Scanner(System.in);
@@ -17,7 +17,7 @@ public class PrimeNumberChecker {
     	}
     	
     	if (number % 2 == 0){
-    	System.out.println("the number is not a prime");
+    	System.out.println("the number is even");
     	} else{
     	for (int i=3;i <= 9; i+=2){
     		if(number % i == 0){
